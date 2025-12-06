@@ -6,3 +6,7 @@ O processo que inicia uma tarefa e segue o fluxo sem esperar, o resultado chega 
 Tecnologias que utilizam essa movimentação ?
 Tecnologias síncronas: Python tradicional, Java, C/C++, PHP, frameworks como Spring MVC e Django.
 Tecnologias assíncronas: Node.js, Go, Rust async, Python async (FastAPI), Spring WebFlux, WebSockets, Kafka, RabbitMQ.
+
+
+
+LINK: https://github.com/Brunoabsurdo/Engenharia-software-conceitos?tab=readme-ov-file#engenharia-software-conceitos
