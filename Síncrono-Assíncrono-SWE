@@ -1,0 +1,8 @@
+Oque é síncrono?
+É o processo que só continua depois que a tarefa atual termina
+Oque é assícrono?
+O processo que inicia uma tarefa e segue o fluxo sem esperar, o resultado chega depois.
+
+Tecnologias que utilizam essa movimentação ?
+Tecnologias síncronas: Python tradicional, Java, C/C++, PHP, frameworks como Spring MVC e Django.
+Tecnologias assíncronas: Node.js, Go, Rust async, Python async (FastAPI), Spring WebFlux, WebSockets, Kafka, RabbitMQ.
